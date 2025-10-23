@@ -10,8 +10,8 @@
 | **Chinese** | **English** |
 |-------------|-------------|
 | 云南师范大学信息学院电子信息085410专业 | Graduate Student in Electronic Information (085410)<br>**School of Information Science and Technology, Yunnan Normal University** | **云南师范大学信息学院电子信息085410专业**<br>**School of Information Science and Technology, Yunnan Normal University** |
-| 💡 Passionate about **deep learning at the intersection of theory and real-world impact**<br>🌱 Current focus: **Remote Sensing & Few-shot Learning** | 💡 Deep learning enthusiast bridging theoretical innovation and real-world applications<br>🌱 Current research: **Remote Sensing & Few-shot Learning** |
-| 🌍 *Driven by the mission: "Make AI accessible for global agricultural and energy challenges"* | 🌍 *Mission: "Democratize AI for global agricultural and energy resilience"* |
+| 💡对**理论与实际影响交汇处的深度学习**充满热情<br>🌱 研究方向: **遥感 & 小样本**  | 💡 Deep learning enthusiast bridging theoretical innovation and real-world applications<br>🌱 Current research: **Remote Sensing & Few-shot Learning** |
+| 🌍 *坚信：“让人工智能可用于全球农业和能源挑战”* | 🌍 *Mission: "Democratize AI for global agricultural and energy resilience"* |
 
 ---
 
